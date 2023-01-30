@@ -21,7 +21,7 @@ https://www.researchgate.net/figure/Soil-Dataset-inCSV-format_fig1_303882815
 - cu - Copper (Cu)
 - Mn - Manganese (Mn)
 - B - Boron (B)
-- fertility: categorical (0, 1, 2)
+- fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
 
 
 ### More:
