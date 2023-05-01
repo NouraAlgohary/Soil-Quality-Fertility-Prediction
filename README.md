@@ -17,6 +17,6 @@
 - cu - Copper (Cu)
 - Mn - Manganese (Mn)
 - B - Boron (B)
-- fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
+- Fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
 
 ![The-5-Components-of-Healthy-Soil-1024x682](https://user-images.githubusercontent.com/103903785/235441777-7f0856c5-a7e6-4fc8-96f5-0f4d70594c04.jpg)
