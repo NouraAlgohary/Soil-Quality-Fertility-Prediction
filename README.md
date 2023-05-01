@@ -1,12 +1,8 @@
 # ML---Soil-Quality
 
 ### Data
-- https://github.com/derijos/Soil-Fertility-Prediction-And-Crop-Recommendation/blob/master/dataset/proper_dataset1.csv
-- https://github.com/guptahardik17/Soil-Fertility-Prediction/blob/master/data.csv
-
-### Data for testing
-https://www.researchgate.net/figure/Soil-Dataset-inCSV-format_fig1_303882815
-
+- [Original](https://github.com/derijos/Soil-Fertility-Prediction-And-Crop-Recommendation/blob/master/dataset/proper_dataset1.csv)
+- [Modified](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML---Soil-Quality/blob/main/Soil%20Fertility%20Data.csv)
 
 ### Atrributes:
 - N - ratio of Nitrogen (NH4+) content in soil 
@@ -23,10 +19,4 @@ https://www.researchgate.net/figure/Soil-Dataset-inCSV-format_fig1_303882815
 - B - Boron (B)
 - fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
 
-
-### More:
-- OM - organic materials
-- CaCO3 - Calcium carbonate
-- CEC - Cation exchange capacity
-
-![soil](https://user-images.githubusercontent.com/103903785/215579657-2e4f6382-d0be-4ad0-a5c7-ac23ad9255c8.jpg)
+![The-5-Components-of-Healthy-Soil-1024x682](https://user-images.githubusercontent.com/103903785/235441777-7f0856c5-a7e6-4fc8-96f5-0f4d70594c04.jpg)
