@@ -1,8 +1,9 @@
 # ML---Soil-Quality
 
 ### Data
-- [Original](https://github.com/derijos/Soil-Fertility-Prediction-And-Crop-Recommendation/blob/master/dataset/proper_dataset1.csv)
-- [Modified](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML---Soil-Quality/blob/main/Soil%20Fertility%20Data.csv)
+Raw Data is published on [kaggle](https://www.kaggle.com/datasets/rahuljaiswalonkaggle/soil-fertility-dataset)
+- [Original DataSet](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML---Soil-Quality/blob/main/Raw%20Data.csv)
+- [Modified DataSet](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML---Soil-Quality/blob/main/Soil%20Fertility%20Data.csv)
 
 ### Atrributes:
 - N - ratio of Nitrogen (NH4+) content in soil 
