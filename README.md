@@ -22,7 +22,7 @@ Raw Data is published on [kaggle](https://www.kaggle.com/datasets/rahuljaiswalon
 - cu - Copper (Cu)
 - Mn - Manganese (Mn)
 - B - Boron (B)
-- Fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
+- fertility: categorical (0 "Less Fertile", 1 "Fertile", 2 "Highly Fertile")
 
 ## Resource/Situational Constraints
 - Lack of Data about our region
