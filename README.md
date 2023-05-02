@@ -39,7 +39,7 @@ Raw Data is published on [kaggle](https://www.kaggle.com/datasets/rahuljaiswalon
 
 ## Code 
 1. Import liberaries and modules
-2. Naive approuch with RandomForestClassifier and raw data(accuracy = )
+2. Naive approuch with RandomForestClassifier and raw data(accuracy = 88%)
 3. Data Exploration for modified data
 4. Choose a model 
     - SupportVectorClassifier 
@@ -48,5 +48,5 @@ Raw Data is published on [kaggle](https://www.kaggle.com/datasets/rahuljaiswalon
     - KNeighborsClassifier 
     - DecisionTreeClassifier
 5. GridSearch
-6. Fit a RandomForestClassifier
+6. Train a RandomForestClassifier (accuracy = 97%)
 7. Save the model
