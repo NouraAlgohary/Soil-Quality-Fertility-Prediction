@@ -34,7 +34,7 @@ Raw Data is published on [kaggle](https://www.kaggle.com/datasets/rahuljaiswalon
 
 ## Process followed 
 - Searched for a dataset from another country
-- Copied instances for the least appearing class 
+- Creating additional instances for the least appearing class 
 - monitored by an experienced specialist
 
 ## Code 
